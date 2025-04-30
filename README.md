@@ -20,7 +20,7 @@ Uma API simples para gerenciamento de tarefas, construída com PHP e MySQL, perf
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/task-api.git
+git clone https://github.com/AAndersonSantos/API-TASK-PHP.git
 cd task-api
 ```
 
